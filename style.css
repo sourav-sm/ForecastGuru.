@@ -12,13 +12,13 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #000;
+  background-color: rgb(10, 10, 46);
 }
 
 .container{
   width: 400px;
   height: min-content;
-  background-color: #fff;
+  background-color: #5ed6f0;
   border-radius: 12px;
   padding: 28px;
 }
@@ -36,7 +36,7 @@ body{
     font-size: 20px;
     text-transform: capitalize;
     color: #000;
-    background-color: #e6f5fb;
+    background-color: #b6e3f5;
     padding: 12px 16px;
     border-radius: 14px;
 }
@@ -48,7 +48,7 @@ body{
 .search-box button{
   width: 46px;
   height: 46px;
-  background-color: #e6f5fb;
+  background-color: #0ab1f4;
   border-radius: 50%;
   cursor: pointer;
   font-size: 20px;
